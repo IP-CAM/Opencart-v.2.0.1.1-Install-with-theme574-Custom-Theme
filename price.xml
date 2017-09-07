@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2017-05-12 8:01">
+  <shop>
+    <name>Intelligent Devices</name>
+    <company>Intelligent Devices</company>
+    <url>http://www.intelligent-devices.ru/</url>
+<currencies>
+  <currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+  <category id="1">Бытовая техника</category>
+  <category id="2" parentId="1">Пылесосы</category>
+  <category id="3" parentId="1">Аксессуары</category>
+ </categories>
+<delivery-options>
+    <option cost="0" days="0-1" order-before="14"/>
+</delivery-options>
+<offers>
+    <offer id="2" available="true">
+    <url>http://intelligent-devices.ru/Seebest/Seebest-C571</url>
+    <price>14500</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/6-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/5-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Seebest C571 Black</name>
+    <vendor>Seebest</vendor>
+    <model>C571</model>
+    <description>В новой моделе C571 воплощены не только технологические достижения индустрии робот-пылесосов за последние 15 лет, но также утонченно-изящный дизайн, присущий исключительно премиальной продукции.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Ni-MH, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">23 Вт</param>
+    <param name="Объем пылесборника">350 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x8,7 cм</param>
+    <param name="Вес">3,2 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">есть пульт дистанционного управления, поддерживает 2 режима скоростиесть, присутствует насадка для мытья полов</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+  <offer id="3" available="true">
+    <url>http://intelligent-devices.ru/Seebest/Seebest-C571</url>
+    <price>14500</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/21-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Seebest C571 Red</name>
+    <vendor>Seebest</vendor>
+    <model>C571</model>
+    <description>В новой моделе C571 воплощены не только технологические достижения индустрии робот-пылесосов за последние 15 лет, но также утонченно-изящный дизайн, присущий исключительно премиальной продукции.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Ni-MH, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">23 Вт</param>
+    <param name="Объем пылесборника">350 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x8,7 cм</param>
+    <param name="Вес">3,2 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">есть пульт дистанционного управления, поддерживает 2 режима скорости, присутствует насадка для мытья полов,</param>
+    <param name="Цвет">Красный</param>
+  </offer>
+  <offer id="4" available="true">
+    <url>http://intelligent-devices.ru/Puppyoo-V-M611A</url>
+    <price>11900</price>
+    <oldprice>13500</oldprice>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/MAIN1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/11-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/23-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/21-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Puppyoo/25-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Puppyoo V-M611A</name>
+    <vendor>Puppyoo</vendor>
+    <model>V-M611A</model>
+    <description>Puppyoo V-M611A - самая часто продаваемая модель известной компании Puppyoo. Несомненным преимуществом Puppyoo V-M611A  является низкий силуэт устройства, который помогает качественно очистить труднодоступный места, а также легкий вес модели, минимизирующий расход батареи.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">15 Вт</param>
+    <param name="Объем пылесборника">250 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">31,0x31,0x7,7 cм</param>
+    <param name="Вес">1,8 кг</param>
+    <param name="Цвет">Красный</param>
+  </offer>
+ <offer id="5" available="true">
+    <url>http://intelligent-devices.ru/Xiaomi/Mi-Robot-Vacuum</url>
+    <price>22190</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/55-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/Xiaomi-Mi-Robot-Vacuum_20-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/5-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/6-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Xiaomi Mi Robot Vacuum Cleaner</name>
+    <vendor>Xiaomi</vendor>
+    <model>Robot Vacuum Cleaner</model>
+    <description>Xiaomi Mi Robot - это первое поколение знаменитой технологической компании Xiaomi. В данной модели компания из Поднебесной совместила все лучшее из своих продуктов, а именно: изящно-аскетичный дизайн, новаторские технологические решения, традиционную простоту настройки и использования своей продукции. Xiaomi Mi Robot Vacuum обладает всеми функциями премиальных моделей робот-пылесосов, при этом может похвастаться адекватным ценником.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 5200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 150 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">55 Вт</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,5x34,5x9,6 cм</param>
+    <param name="Вес">3,8 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+ <offer id="6" available="true">
+    <url>http://intelligent-devices.ru/Filters/Primary-Filter-iLife</url>
+    <price>590</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iLife/Primary%201-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iLife/Primary%202-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Основной фильтр для iLife V7s</name>
+    <vendor>CHUWI</vendor>
+    <model>Основной фильтр</model>
+    <description>Основной фильтр для iLife V7s в наличии только в Intelligent Devices.</description>
+    <sales_notes>Бесплатная доставка при покупке на 10.000 руб.</sales_notes>
+  </offer>
+ <offer id="7" available="true">
+    <url>http://intelligent-devices.ru/HEPA-Filter-iLife</url>
+    <price>490</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iLife/HEPA%201-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iLife/HEPA%202-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Сменный HEPA фильтр для iLife V7s</name>
+    <vendor>CHUWI</vendor>
+    <model>Сменный HEPA фильтр</model>
+    <description>Сменный HEPA фильтр для iLife V7s в наличии только в Intelligent Devices.</description>
+    <sales_notes>Бесплатная доставка при покупке на 10.000 руб.</sales_notes>
+  </offer>
+ <offer id="8" available="true">
+    <url>http://intelligent-devices.ru/HEPA-Filter-Xiaomi</url>
+    <price>990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/Filter%204-800x800.png.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/Filter%203-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Xiaomi/Filter%202-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект HEPA фильтров для Xiaomi Vacuum Cleaner</name>
+    <vendor>Xiaomi</vendor>
+    <model>Сменный HEPA фильтр</model>
+    <description>Комплект HEPA фильтров для Xiaomi Vacuum Cleaner в наличии только в Intelligent Devices.</description>
+    <sales_notes>Бесплатная доставка при покупке на 10.000 руб.</sales_notes>
+  </offer>
+ <offer id="9" available="true">
+    <url>http://intelligent-devices.ru/Seebest-E620</url>
+    <price>8400</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E620/1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E620/2-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E620/3-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E620/4-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E620/5-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Seebest E620</name>
+    <vendor>Seebest</vendor>
+    <model>E620</model>
+    <description>Новейшая модель Seebest E620 покорит Вас!</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">15 Вт</param>
+    <param name="Объем пылесборника">350 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">33,0x33,0x6,3 cм</param>
+    <param name="Вес">2,0 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="10" available="true">
+    <url>http://intelligent-devices.ru/Seebest-P8</url>
+    <price>7500</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/P8/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/P8/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/P8/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/P8/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Seebest/P8/5-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Пылесос Seebest P8</name>
+    <vendor>Seebest</vendor>
+    <model>P8</model>
+    <description>Пылесос Seebest P8 для удаления пыли и полевого клеща с мягких поверхностей</description>
+    <sales_notes>Сэкономь 1 200 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="11" available="true">
+    <url>http://intelligent-devices.ru/Panda-X1</url>
+    <price>24990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X1/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X1/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X1/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X1/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda Clever X1</name>
+    <vendor>Panda</vendor>
+    <model>X1</model>
+    <description>Робот пылесос Panda X1 - это доработанная модель PANDA x900, оснащенная полноценной функцией влажной уборки.</description>
+    <sales_notes>Сэкономь 3 490 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая и влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">125 Вт</param>
+    <param name="Объем пылесборника">700 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x8,0 cм</param>
+    <param name="Вес">3,5 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">автоматическое смачивание тряпки из микрофибры при влажной уборке; автоматическое отключение влажного режима на ковровых и тканевых покрытиях</param>
+    <param name="Цвет">Черный</param>
+    <param name="Цвет">Желтый</param>
+  </offer>
+<offer id="13" available="true">
+    <url>http://intelligent-devices.ru/Panda/Panda-X500</url>
+    <price>11470</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X500/Main-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X500/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X500/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X500/3-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda X500 Pet Series</name>
+    <vendor>Panda</vendor>
+    <model>X500 Pet Series</model>
+    <description> Panda Clever X500 - это младшая модель компании Panda Robotics, которая может похвастаться широким спектром функциональных решений при простой настройке пылесоса. </description>
+    <sales_notes>Сэкономь 270 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 110 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">50 Вт</param>
+    <param name="Объем пылесборника">450 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x8,7 cм</param>
+    <param name="Вес">3,5 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">подходит для уборки шерсти домашних животных и особо сильных загрязнений; сенсорные кнопки; для типов покрытий: паркет, ламинат, ковролин, плитка, линолеум</param>
+    <param name="Цвет`">Черный</param>
+  </offer>
+<offer id="14" available="true">
+    <url>http://intelligent-devices.ru/iClebo-Arte</url>
+    <price>26150</price>
+    <oldprice>29900</oldprice>   
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Arte/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Arte/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Arte/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Arte/6-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iClebo Arte</name>
+    <vendor>iClebo</vendor>
+    <model>Arte</model>
+    <description>Робот пылесос iClebo Arte - это флагманская модель знаменитых робот пылесосов от корейской компании Yujin Robots, сочетающее в себе новаторство дизайна и преемственность новых технологий.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">60 Вт</param>
+    <param name="Объем пылесборника">600 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x8,9 cм</param>
+    <param name="Вес">2,8 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">работа с микрофиброй (влажная протирка полов); щетка для очистки; 2 боковые щетки</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+<offer id="15" available="true">
+    <url>http://intelligent-devices.ru/iClebo-Pop</url>
+    <price>22600</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Pop/Main-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Pop/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Pop/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Pop/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iClebo Pop</name>
+    <vendor>iClebo</vendor>
+    <model>Pop</model>
+    <description>Робот пылесос iClebo Pop - это младшая модель знаменитых робот пылесосов от корейской компании Yujin Robots, сочетающее в себе новаторство дизайна и преемственность новых технологий.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">60 Вт</param>
+    <param name="Объем пылесборника">600 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x8,9 cм</param>
+    <param name="Вес">2,8 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">может работать в режиме полотера; сенсорное управление</param>
+    <param name="Цвет">Желтый</param>
+  </offer>
+<offer id="16" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Roomba-616</url>
+    <price>19900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/616/Main-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Roomba 616</name>
+    <vendor>iRobot</vendor>
+    <model>Roomba 616</model>
+    <description>Робот пылесос iRobot Roomba 616 - это обновленная модель робот пылесосов от американской компании iRobot, сочетающее в себе новаторство дизайна и преемственность новых технологий.</description>
+    <sales_notes>6 фильтров в подарок! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">33 Вт</param>
+    <param name="Объем пылесборника">750 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x9,2 cм</param>
+    <param name="Вес">3,6 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">улучшенная батарея XLife</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+<offer id="17" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Roomba-681</url>
+    <price>25800</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/681/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/681/2-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/681/6-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/681/5-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Roomba 681</name>
+    <vendor>iRobot</vendor>
+    <model>Roomba 681</model>
+    <description>Робот пылесос iRobot Roomba 681 - легкая и простая система управления, проверенная временем. Обновленный прогрессивный дизайн. Время уборки до трех часов благодаря обновленной литий-ионной аккумуляторной батарее. Работа устройства Virtual Mode в режиме виртуальной стены и в режиме координатора движения, в комплекте.</description>
+    <sales_notes>6 фильтров в подарок! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2130 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">33 Вт</param>
+    <param name="Объем пылесборника">1000 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">33,5x33,5x9,3 cм</param>
+    <param name="Вес">3,6 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">улучшенная батарея XLife</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+<offer id="18" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Roomba-886</url>
+    <price>36860</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/886/Main-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/886/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/886/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/886/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Roomba 886</name>
+    <vendor>iRobot</vendor>
+    <model>Roomba 886</model>
+    <description>Координатор движения и система LightHouse позволяют идеально точно ориентироваться в помещении и убирать площадь больше 100 квадратных метров. Передовая система AeroForceTM отвечает за тщательную и качественную уборку мусора и грязи. Аккумулятор повышенной емкости с увеличенным ресурсом гарантирует долгую повседневную работу пылесоса.</description>
+    <sales_notes>4 фильтра в подарок! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 3000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">33 Вт</param>
+    <param name="Объем пылесборника">900 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">35x35x9 cм</param>
+    <param name="Вес">3,8 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">улучшенная батарея XLife</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+<offer id="19" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Roomba-960</url>
+    <price>44700</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/960/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/960/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/960/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/960/5-800x800.jpeg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Roomba 960</name>
+    <vendor>iRobot</vendor>
+    <model>Roomba 960</model>
+    <description>Возможности Roomba 980 по доступной цене.
+Масса опций, доступных в приложении iRobot Home, способных подстроить уборку под ваши нужды. Безопасен для вашего дома, детей и животных. Не требователен в уходе и компактен.</description>
+    <sales_notes>6 фильтров в подарок! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2130 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">33 Вт</param>
+    <param name="Объем пылесборника">1000 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">35x35x9.2 cм</param>
+    <param name="Вес">3 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">возможность управления по Wi-Fi (с устройств iOS и Android); подпружиненные и прорезиненные колеса; автоматическая адаптация под различные покрытия пола</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+<offer id="20" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Roomba-980</url>
+    <price>53800</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/980/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/980/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/980/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/980/5-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Roomba 980</name>
+    <vendor>iRobot</vendor>
+    <model>Roomba 980</model>
+    <description>Совершенная модель семейства Roomba вобравшая в себя все передовые технологии по автоматизированной уборке дома. Оптическая система построения карты дома с помощью видеокамеры. Полный контроль и управление с смартфона из любой точки мира. Способен убрать самостоятельно даже самые большие помещения.</description>
+    <sales_notes>!6 фильтров в подарок! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 3300 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">33 Вт</param>
+    <param name="Объем пылесборника">1000 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">35x35x9.2 cм</param>
+    <param name="Вес">3.95 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">возможность управления по Wi-Fi (с устройств iOS и Android); подпружиненные и прорезиненные колеса; автоматическая адаптация под различные покрытия пола</param>
+    <param name="Цвет">Коричневый</param>
+  </offer>
+<offer id="21" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Brava-390T</url>
+    <price>18900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/390T/Main-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/390T/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/390T/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/390T/3-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Braava 390T</name>
+    <vendor>iRobot</vendor>
+    <model>Braava 390T</model>
+    <description>Робот - полотер Braava 390T способен выполнять как сухую, так и влажную уборку пола. Обладает аккумулятором повышенной ёмкости, специальной зарядной базой. В комплекте с роботом поставляется кроме обычного держателя для ткани также держатель с резервуаром для воды.</description>
+    <sales_notes>1.000 руб - вернем наличными! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">21.6x21.6x7.6 cм</param>
+    <param name="Вес">1.8 кг</param>
+    <param name="Дополнительная информация">пыль не всасывается, а собирается на сухую или влажную ткань; панель Pro-Clean с дозатором моющего раствора, который обеспечивает постоянное увлажнение салфетки; навигационная система NorthStar - кубы, выстраивающие карты помещения, для последовательной уборки нескольких помещений необходима доукомплектация доп. кубами; уборка до 93 м2 на одном заряде</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="22" available="true">
+    <url>http://intelligent-devices.ru/iRobot-Brava-Jet240</url>
+    <price>15900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/Jet%20240/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/Jet%20240/3-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/Jet%20240/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iRobot/Jet%20240/5-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iRobot Braava Jet 240</name>
+    <vendor>iRobot</vendor>
+    <model>Braava Jet 240</model>
+    <description>Braava Jet 240 - обновленная модель инновационного робота-полотера от iRobot. Новинка отличается габаритами, внешним видом и множеством конструкционных особенностей. iRobot Braava Jet 240 предназначен для ежедневной уборки небольших помещений с твердым напольным покрытием, таким какплитка, паркет или линолеум.</description>
+    <sales_notes>1.000 руб - вернем наличными! Доставим сегодня!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">17x17.8x8.4 cм</param>
+    <param name="Вес">1.5 кг</param>
+    <param name="Дополнительная информация">сухая уборка с помощью салфетки; влажная уборка в двух режимах: швабра и режим с предварительным распрыскиванием воды на пол; можно использовать чистую водопроводную воду или специальное моющее средство; в комплекте 2 колодки для влажной чистки, 2 влажные сметающие колодки, 2 сухие сметающие колодки; управление настройками с помощью приложения iRobot HOME App</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="23" available="true">
+    <url>http://intelligent-devices.ru/Hobot/Hobot-188</url>
+    <price>17290</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>https://intelligent-devices.ru/image/cache/catalog/Main/Hobot/188/M1-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон Hobot 188</name>
+    <vendor>Hobot</vendor>
+    <model>188</model>
+    <description>Hobot 188 — это первый в мире многофункциональный робот-мойщик для чистки окон и стекол. Также можно использовать для мойки полов, стен, зеркал, стеклянных перегородок в душе и стеклянных столов.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Pol</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">14.8x29.5x12 cм</param>
+    <param name="Вес">0.93 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="24" available="true">
+    <url>http://intelligent-devices.ru/Hobot-268</url>
+    <price>19200</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Hobot/268/M2-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон Hobot 268</name>
+    <vendor>Hobot</vendor>
+    <model>268</model>
+    <description>Hobot 268 - самый быстрый робот-мойщик в мире! Оснащен двумя гусеницами, которые позволяют передвигаться со скоростью 12 см в секунду - робот чистит один квадратный метр в 2,4 минуты! Имеет лазерный датчик для определения краев очищаемой поверхности, что позволяет чистить не только окна, но и безрамные двери и зеркала.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">24x24x10 cм</param>
+    <param name="Вес">1.2 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="25" available="true">
+    <url>http://intelligent-devices.ru/Hobot/Hobot-198</url>
+    <price>21790</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Hobot/198/M4-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон Hobot 198</name>
+    <vendor>Hobot</vendor>
+    <model>198</model>
+    <description>Hobot 198 — это первый в мире многофункциональный робот-мойщик для чистки окон и стекол. Также можно использовать для мойки полов, стен, зеркал, стеклянных перегородок в душе и стеклянных столов.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Pol</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">14.8x29.5x12 cм</param>
+    <param name="Вес">0.93 кг</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+<offer id="26" available="true">
+    <url>http://intelligent-devices.ru/Winbot-W850</url>
+    <price>29190</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Ecovacs/W850/M1-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон Ecovacs Winbot W850</name>
+    <vendor>Winbot</vendor>
+    <model>Winvot W850</model>
+    <description>Ecovacs Winbot W850 - обновленная модель знаменитой компании Ecovacs. Данная модель создана для профессиональной очистки ровных поверхностей (окна, плитка и т.д.). Попробуйте, Вы не пожалеете!</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">24.7x24.4x11.5 cм</param>
+    <param name="Вес">1.8 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="27" available="true">
+    <url>http://intelligent-devices.ru/Winbot-W950</url>
+    <price>31500</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Ecovacs/W950/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Ecovacs/W950/1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Ecovacs/W950/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Ecovacs/W950/7-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон Ecovacs Winbot W950</name>
+    <vendor>Winbot</vendor>
+    <model>Winvot W950</model>
+    <description>Ecovacs Winbot W950 - топовая модель знаменитой компании Ecovacs. Данная модель создана для профессиональной очистки ровных поверхностей (окна, плитка и т.д.). Попробуйте, Вы не пожалеете!</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">28x28x12.5 cм</param>
+    <param name="Вес">3.3 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="28" available="true">
+    <url>http://intelligent-devices.ru/Panda-X850</url>
+    <price>16700</price>
+    <oldprice>19470</oldprice>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/2-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda Clever X850</name>
+    <vendor>Panda</vendor>
+    <model>X850</model>
+    <description>Робот пылесос Panda X850 - это обновленная модель 8-го поколения, предназначенная как для сухой уборки, так и для влажной.</description>
+    <sales_notes>Сэкономь 900 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая и влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 90 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">25 Вт</param>
+    <param name="Объем пылесборника">500 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x9,0 cм</param>
+    <param name="Вес">3 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">автоматическое смачивание тряпки из микрофибры; возобновление работы с прерванного участка после подзарядки</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+<offer id="29" available="true">
+    <url>http://intelligent-devices.ru/Panda-X950</url>
+    <price>18180</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/2-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X850-950/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda Clever X950</name>
+    <vendor>Panda</vendor>
+    <model>X950</model>
+    <description>Робот пылесос Panda X950 - это обновленная модель 9-го поколения, предназначенная как для сухой уборки, так и для влажной.</description>
+    <sales_notes>Сэкономь 1 380 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая и влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">25 Вт</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">34,0x34,0x9,0 cм</param>
+    <param name="Вес">3 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">автоматическое смачивание тряпки из микрофибры; возобновление работы с прерванного участка после подзарядки</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+<offer id="30" available="true">
+    <url>http://intelligent-devices.ru/Clever-Clean-M002</url>
+    <price>6900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20002/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20002/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20002/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20002/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean M-Series 002</name>
+    <vendor>Clever Clean</vendor>
+    <model>M-Series 002</model>
+    <description>Робот пылесос Clever Clean M-Series 002 предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также протирки твердых поверхностей.</description>
+    <sales_notes>Сэкономь 200 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 800 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 40 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Объем пылесборника">150 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">27,4x27,4x7,4 cм</param>
+    <param name="Вес">1.5 кг</param>
+    <param name="Дополнительная информация">предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также влажной протирки твердых поверхностей; разные цвета корпуса</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Цвет">Синий</param>
+  </offer>
+<offer id="31" available="true">
+    <url>http://intelligent-devices.ru/Clever-Clean-Z10A</url>
+    <price>11990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10A/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10A/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10A/6-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10A/8-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean Z10A</name>
+    <vendor>Clever Clean</vendor>
+    <model>Z10A</model>
+    <description>Робот пылесос Clever Clean Z10A предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также протирки твердых поверхностей.</description>
+    <sales_notes>Сэкономь 590 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 100 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Объем пылесборника">350 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x9,2 cм</param>
+    <param name="Вес">3.2 кг</param>
+    <param name="Дополнительная информация">предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также влажной протирки твердых поверхностей; разные цвета корпуса</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Цвет">Оранжевый</param>
+  </offer>
+<offer id="32" available="true">
+    <url>http://intelligent-devices.ru/Clever-Diamond-II</url>
+    <price>19900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Black%20Diamond%202/Main-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Black%20Diamond%202/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Black%20Diamond%202/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Black%20Diamond%202/3-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean Zpro-series Black Diamond II</name>
+    <vendor>Clever Clean</vendor>
+    <model>Zpro-series Black Diamond II</model>
+    <description>Робот-пылесос Clever Clean Zpro-series Black Diamond - является продолжением, зарекомендовавшей себя, классической Z-серии роботов-пылесосов Clever Clean. Черный глянцевый корпус с сенсорным управлением воплощает в себе стиль и изысканность, являясь отличным дополнением интерьера современного дома.В модели реализованы следующие функции: сенсорное управление на корпусе аппарата; автоматическое возвращение на базу зарядки после окончания уборки; программирование.</description>
+    <sales_notes>Сэкономь 1 990 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 100 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">24 Вт</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x9,6 cм</param>
+    <param name="Вес">3.2 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">плавающая головка, меняющая силу давления щеток на пол в зависимости от полового покрытие; сенсорное управление; возможность влажной протирки твердых поверхностей, 5 сменных накладок для моющей панели</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+<offer id="33" available="true">
+    <url>http://intelligent-devices.ru/Clever-Moon-II</url>
+    <price>19900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/White%20Moon%202/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/White%20Moon%202/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/White%20Moon%202/3-800x800.JPG</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/White%20Moon%202/4-800x800.JPG</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean Zpro-series White Moon II</name>
+    <vendor>Clever Clean</vendor>
+    <model>Zpro-series White Moon II</model>
+    <description>Робот-пылесос Zpro-series White Moon II - является продолжением, зарекомендовавшей себя, классической Z-серии роботов-пылесосов Clever Clean. Он обладает привлекательным, утонченным дизайном. Белый глянцевый корпус с сенсорным управлением – он воплощает в себе стиль и изысканность, являясь отличным дополнением интерьера современного дома. В модели реализованы следующие функции: сенсорное управление на корпусе аппарата; автоматическое возвращение на базу зарядки после окончания уборки; программирование.</description>
+    <sales_notes>Сэкономь 1 990 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 100 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">24 Вт</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x9,6 cм</param>
+    <param name="Вес">3.2 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">плавающая головка, меняющая силу давления щеток на пол в зависимости от полового покрытие; сенсорное управление; возможность влажной протирки твердых поверхностей, 5 сменных накладок для моющей панели</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="34" available="true">
+    <url>http://intelligent-devices.ru/Clever-Z10-II</url>
+    <price>15900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/Z10/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean Zpro-series Z10 II</name>
+    <vendor>Clever Clean</vendor>
+    <model>Zpro-series Z10 II</model>
+    <description>Робот-пылесос Zpro-series Z10 II - является продолжением, зарекомендовавшей себя, классической Z-серии роботов-пылесосов Clever Clean. Он обладает привлекательным, утонченным дизайном. Серый глянцевый корпус с сенсорным управлением – он воплощает в себе стиль и изысканность, являясь отличным дополнением интерьера современного дома. В модели реализованы следующие функции: сенсорное управление на корпусе аппарата; автоматическое возвращение на базу зарядки после окончания уборки; программирование.</description>
+    <sales_notes>Сэкономь 1 400 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 100 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">24 Вт</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x9,2 cм</param>
+    <param name="Вес">3.5 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">дополнительная моющая панель</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="35" available="true">
+    <url>http://intelligent-devices.ru/Clever-Clean-M004</url>
+    <price>7990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20004/Main-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20004/1-800x800.jpeg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20004/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Clever%20Clean/M%20004/5-800x800.jpeg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Clever Clean M-Series 004</name>
+    <vendor>Clever Clean</vendor>
+    <model>M-Series 004</model>
+    <description>Робот пылесос Clever Clean M-Series 004 предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также протирки твердых поверхностей.</description>
+    <sales_notes>Сэкономь 490 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">NiMH, емкость 850 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 50 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Объем пылесборника">200 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">27,4x27,4x7,4 cм</param>
+    <param name="Вес">1.5 кг</param>
+    <param name="Дополнительная информация">предназначен для сухой уборки плитки, ламината, паркета, ковров с коротким ворсом, а также влажной протирки твердых поверхностей; разные цвета корпуса</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+ <offer id="36" available="true">
+    <url>http://intelligent-devices.ru/Supply-Set-iLife</url>
+    <price>1790</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>3</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iLife/Supply%20Set-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Accessories/supply%20set%201-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Accessories/supply%20set%202-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Запасной комплект для iLife V7s</name>
+    <vendor>CHUWI</vendor>
+    <model>Запасной комплект</model>
+    <description>Запасной комплект для iLife V7s в наличии только в Intelligent Devices.</description>
+    <sales_notes>Бесплатная доставка при покупке на 10.000 руб</sales_notes>
+  </offer>
+<offer id="37" available="true">
+    <url>http://intelligent-devices.ru/Panda-X900-Pro</url>
+    <price>17990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X900%20Pro/Main-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X900%20Pro/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X900%20Pro/2-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/X900%20Pro/4-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda X900 Pro</name>
+    <vendor>Panda</vendor>
+    <model>X900 Pro</model>
+    <description>Робот пылесос Panda X900 Pro - это обновленная модель 9-ой серии от знаменитой японской компании Panda Robotics.</description>
+    <sales_notes>Сэкономь 1 290 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">32,0x32,0x9 cм</param>
+    <param name="Вес">3.2 кг</param>
+    <param name="Дополнительная информация">Уборка по расписанию</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+ <offer id="38" available="true">
+    <url>http://intelligent-devices.ru/Panda-i5</url>
+    <price>37990</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/i5/Main-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/i5/1-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/i5/4-800x800.png</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/Panda/i5/11-800x800.jpg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос Panda i5</name>
+    <vendor>Panda</vendor>
+    <model>i5</model>
+    <description>Мощный процессор и усовершенствованный картографический модуль позволяют Panda i5 самому строить и запоминать маршрут уборки, а также возвращаться на базу для подзарядки.</description>
+    <sales_notes>Сэкономь 3 490 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Pol, емкость 7000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 140 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Объем пылесборника">400 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">35,0x35,0x6 cм</param>
+    <param name="Вес">3.0 кг</param>
+    <param name="Дополнительная информация">Управление со смртфона, HD камера</param>
+    <param name="Цвет">Красный</param>
+    <param name="Цвет">Желтый</param>
+  </offer>
+ <offer id="39" available="true">
+    <url>http://intelligent-devices.ru/iBoto-Win199</url>
+    <price>15900</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iBoto/199/Main-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iBoto/199/1-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iBoto/199/4-800x800.jpg</picture>
+    <picture>http://intelligent-devices.ru/image/cache/catalog/Main/iBoto/199/5-800x800.jpeg</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-мойщик окон iBoto Win 199</name>
+    <vendor>iBoto</vendor>
+    <model>Win 199</model>
+    <description>iBoto Win 199 — это первый в мире многофункциональный робот-мойщик для чистки окон и стекол. Также можно использовать для мойки полов, стен, зеркал, стеклянных перегородок в душе и стеклянных столов.</description>
+    <sales_notes>Сэкономь 700 руб.! Жми «купить дешевле»</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">влажная</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Pol</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Размеры пылесоса (ШxГxВ)">14.8x29.5x11.5 cм</param>
+    <param name="Вес">0.95 кг</param>
+    <param name="Цвет">Белый</param>
+  </offer>
+<offer id="40" available="true">
+    <url>http://intelligent-devices.ru/iClebo-Omega</url>
+    <price>36860</price>
+    <oldprice>41900</oldprice>  
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>https://intelligent-devices.ru/image/cache/catalog/Main/iClebo/Omega/Main-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот пылесос iClebo Omega</name>
+    <vendor>iClebo</vendor>
+    <model>Omega</model>
+    <description>Робот пылесос iClebo Omega - это флагманская модель знаменитых робот пылесосов от корейской компании Yujin Robots, сочетающее в себе новаторство дизайна и преемственность новых технологий.</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li-Ion, емкость 4400 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">80 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">60 Вт</param>
+    <param name="Объем пылесборника">700 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">35,0x34,0x8,7 cм</param>
+    <param name="Вес">3,1 кг</param>
+    <param name="Расчет времени уборки">есть</param>
+    <param name="Дополнительная информация">работа с микрофиброй (влажная протирка полов); щетка для очистки; 2 боковые щетки</param>
+    <param name="Цвет">Коричневый</param>
+  </offer>
+<offer id="41" available="true">
+    <url>http://intelligent-devices.ru/Seebest-E630</url>
+    <price>11200</price>
+    <oldprice>13600</oldprice>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>https://intelligent-devices.ru/image/cache/catalog/Main/Seebest/E630/Main-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Seebest E630</name>
+    <vendor>Seebest</vendor>
+    <model>E630</model>
+    <description>Новейшая модель Seebest E630 покорит Вас!</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Li, емкость 2200 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 120 мин</param>
+    <param name="Боковая щетка">есть</param>
+    <param name="Потребляемая мощность">15 Вт</param>
+    <param name="Объем пылесборника">350 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">33,0x33,0x6,3 cм</param>
+    <param name="Вес">2,0 кг</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+ <offer id="42" available="true">
+    <url>http://intelligent-devices.ru/Seebest-A6</url>
+    <price>13600</price>
+    <currencyId>RUR</currencyId>
+    <categoryId>2</categoryId>
+    <picture>https://intelligent-devices.ru/image/cache/catalog/Main/Seebest/A6/Main-800x800.png</picture>
+    <store>false</store>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Робот-пылесос Seebest A6</name>
+    <vendor>Seebest</vendor>
+    <model>A6</model>
+    <description>Новейшая модель Seebest A6 покорит Вас!</description>
+    <sales_notes>Доставим сегодня. Бесплатно!</sales_notes>
+    <manufacturer_warranty>true</manufacturer_warranty>
+    <param name="Тип">робот</param>
+    <param name="Тип уборки">сухая</param>
+    <param name="Аккумуляторный">Да</param>
+    <param name="Тип аккумулятора">Ni-MH, емкость 2000 мА*ч</param>
+    <param name="Количество аккумуляторов">1</param>
+    <param name="Время работы от аккумулятора">до 150 мин</param>
+    <param name="Потребляемая мощность">15 Вт</param>
+    <param name="Объем пылесборника">750 мл</param>
+    <param name="Размеры пылесоса (ШxГxВ)">26,1x26,1x6,3 cм</param>
+    <param name="Вес">2,0 кг</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+</offers>
+</shop>
+</yml_catalog>
