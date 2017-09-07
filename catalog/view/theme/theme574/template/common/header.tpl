@@ -111,6 +111,10 @@
 					<ul class="submenu-item">
 						<li><a href="/multicookers">Мультиварки</a></li>
 						<li><a href="/coffee-Machines">Кофемашины</a></li>
+						<li><a href="/food-processor">Кухонные комбайны</a></li>
+						<li><a href="/juicers">Соковыжималки</a></li>
+						<li><a href="/blenders">Блендеры</a></li>
+						<li><a href="/yogurt-makers">Йогуртницы</a></li>
 					</ul>
 				</li>
 				<li class="menu-item"><a href="/sale">Акции</a></li>
